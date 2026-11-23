@@ -1,0 +1,5 @@
+,ref: Green vegetation,ref: Dry vegetation / litter,ref: Bare ground,ref: Shadow / other
+map: Green vegetation,1895,110,0,0
+map: Dry vegetation / litter,100,1879,1,1
+map: Bare ground,2,3,1999,0
+map: Shadow / other,3,8,0,451

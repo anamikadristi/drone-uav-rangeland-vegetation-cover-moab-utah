@@ -1,0 +1,5 @@
+product,file,crs,pixel_size_cm,width_px,height_px,width_m,height_m,bands,dtype,nodata_share_pct,west,south,east,north
+Multispectral orthomosaic (5 bands),2023-05-05_Moab_Site7_Multi_Ortho_5band.tif,EPSG:6341,1.21,5952,5787,71.99,69.99,5,float32,0.0,-109.421115,38.206199,-109.420279,38.20684
+Multispectral DSM,2023-05-05_Moab_Site7_Multi_DSM.tif,EPSG:6341,2.419,2976,2893,71.99,69.98,1,float32,0.0,-109.421115,38.206199,-109.420279,38.20684
+Natural color orthomosaic (3 bands),2023-05-05_Moab_Site7_RGB_Ortho_3band.tif,EPSG:6341,0.774,9300,9042,72.0,70.0,3,uint8,0.0001,-109.421115,38.206198,-109.420279,38.20684
+Natural color DSM,2023-05-05_Moab_Site7_RGB_DSM.tif,EPSG:6341,1.548,4650,4521,72.0,70.0,1,float32,0.0,-109.421115,38.206198,-109.420279,38.20684

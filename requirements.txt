@@ -1,0 +1,13 @@
+# Python 3.12; versions used for the results in this repository
+numpy==2.5.5
+pandas==3.1.1
+scipy==1.18.1
+matplotlib==3.11.2
+requests==2.34.2
+rasterio==1.5.2
+pyproj==3.8.0
+scikit-image==0.26.0
+scikit-learn==1.9.1
+laspy==2.7.0
+lazrs==0.9.0
+pillow==13.0.0

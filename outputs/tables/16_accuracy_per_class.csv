@@ -1,0 +1,13 @@
+method,class,n_reference,n_mapped,producers_accuracy,producers_accuracy_ci_low,producers_accuracy_ci_high,users_accuracy,users_accuracy_ci_low,users_accuracy_ci_high,f1,f1_ci_low,f1_ci_high
+Index thresholds,Green vegetation,2000,2808,0.982,0.9741,0.9909,0.6994,0.6333,0.7629,0.817,0.77,0.8568
+Index thresholds,Dry vegetation / litter,2000,1547,0.7175,0.6687,0.7489,0.9276,0.8805,0.9609,0.8091,0.7651,0.838
+Index thresholds,Bare ground,2000,2049,1.0,1.0,1.0,0.9761,0.9498,0.9909,0.9879,0.9743,0.9954
+Index thresholds,Shadow / other,452,48,0.1062,0.0361,0.1844,1.0,1.0,1.0,0.192,0.0697,0.3113
+Random forest,Green vegetation,2000,2005,0.9475,0.9265,0.9668,0.9451,0.919,0.9632,0.9463,0.9321,0.9583
+Random forest,Dry vegetation / litter,2000,1981,0.9395,0.9246,0.9537,0.9485,0.9082,0.9728,0.944,0.9215,0.9578
+Random forest,Bare ground,2000,2004,0.9995,0.9985,1.0,0.9975,0.9937,1.0,0.9985,0.9965,1.0
+Random forest,Shadow / other,452,462,0.9978,0.9933,1.0,0.9762,0.961,0.986,0.9869,0.9783,0.9927
+"Random forest, visible bands only",Green vegetation,2000,1928,0.906,0.8818,0.9304,0.9398,0.9113,0.9601,0.9226,0.908,0.9365
+"Random forest, visible bands only",Dry vegetation / litter,2000,2052,0.9355,0.9229,0.9477,0.9118,0.8543,0.948,0.9235,0.8916,0.943
+"Random forest, visible bands only",Bare ground,2000,2004,0.999,0.9978,1.0,0.997,0.992,1.0,0.998,0.9954,0.9997
+"Random forest, visible bands only",Shadow / other,452,468,0.9978,0.9935,1.0,0.9637,0.9304,0.9805,0.9804,0.964,0.9883

@@ -1,0 +1,4 @@
+pair,n,spearman_r,p_value
+bare % vs slope % (5 m cells),182,-0.032,0.6679
+bare % vs elevation (5 m cells),182,-0.1605,0.0305
+green % vs elevation (5 m cells),182,-0.2898,0.0001

@@ -1,0 +1,17 @@
+,value
+valid_pixels,34444224.0
+nodata_share_pct,0.0
+artifact_mask_share_pct,0.39
+analysis_area_m2,5019.3
+median_shift_between_cameras_cm,0.5
+max_shift_between_cameras_cm,0.76
+sharpness_2m_cells_min_rel_to_median,0.756
+sharpness_2m_cells_p05_rel_to_median,0.871
+sharpness_2m_cells_cv,0.098
+ms_row_gain_min,0.79
+ms_row_gain_max,1.158
+ms_row_gain_max_spread_between_bands,0.032
+rgb_row_gain_min,0.904
+rgb_row_gain_max,1.057
+ms_row_gain_after_min,0.983
+ms_row_gain_after_max,1.02

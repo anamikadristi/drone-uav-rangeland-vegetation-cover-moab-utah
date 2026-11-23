@@ -1,0 +1,5 @@
+metric,rf_minus_threshold,ci_low,ci_high
+overall_accuracy,0.1205,0.0897,0.1497
+area_weighted_overall_accuracy,0.0319,0.0259,0.0399
+kappa,0.1752,0.1345,0.2147
+macro_f1,0.2674,0.2378,0.298

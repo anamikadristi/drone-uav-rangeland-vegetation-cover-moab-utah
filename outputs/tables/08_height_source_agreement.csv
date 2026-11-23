@@ -1,0 +1,4 @@
+source_a,source_b,pearson_r_height,spearman_r_height,overlap_of_cells_above_10cm_iou,mean_elevation_difference_cm,sd_elevation_difference_cm
+SfM multispectral,SfM natural color,0.811,0.911,0.4,1.431,3.748
+SfM multispectral,Lidar (max per cell),0.841,0.781,0.411,5.213,2.257
+SfM natural color,Lidar (max per cell),0.766,0.82,0.414,3.782,3.233

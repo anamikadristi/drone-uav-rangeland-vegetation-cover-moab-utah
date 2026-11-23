@@ -1,0 +1,4 @@
+source,red,nir,ndvi_of_means,ndvi_sd_between_pixels
+"Drone (Altum-PT), mean over the same pixels",0.1809,0.2607,0.1808,0.0076
+Sentinel-2 L2A 2023-04-29,0.2283,0.3086,0.1497,0.005
+Sentinel-2 L2A 2023-05-09,0.2171,0.3093,0.1752,0.0073

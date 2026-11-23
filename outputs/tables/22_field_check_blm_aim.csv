@@ -1,0 +1,9 @@
+quantity,method,drone_pct_in_30m_circle,field_aim_pct,field_95ci_low,field_95ci_high,difference_drone_minus_field,inside_field_ci
+Bare ground,Index thresholds,72.65,53.33,45.36,61.13,19.32,False
+Plant canopy + litter (+ rock in field data),Index thresholds,27.34,46.67,38.87,54.64,-19.33,False
+Green vegetation (no field equivalent),Index thresholds,15.96,,,,,
+Dry vegetation / litter (no direct field equivalent),Index thresholds,11.38,,,,,
+Bare ground,Random forest,57.76,53.33,45.36,61.13,4.43,True
+Plant canopy + litter (+ rock in field data),Random forest,42.01,46.67,38.87,54.64,-4.66,True
+Green vegetation (no field equivalent),Random forest,11.62,,,,,
+Dry vegetation / litter (no direct field equivalent),Random forest,30.4,,,,,

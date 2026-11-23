@@ -1,0 +1,4 @@
+source,cell_m,mean_height_cm,median_height_cm,p95_height_cm,p99_height_cm,max_height_cm,area_above_10cm_pct,area_above_20cm_pct
+SfM multispectral,0.1,2.6,1.87,6.96,16.27,93.25,2.27,0.79
+SfM natural color,0.1,1.85,1.37,4.99,9.77,70.75,0.95,0.29
+Lidar (max per cell),0.1,2.15,1.62,5.46,10.93,90.72,1.17,0.47
